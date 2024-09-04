@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Elena
 #### I'm a front-end developer
-![With a mind for logic and a heart for creativity, I’m ready to bring your projects to life.](images/Group4.png)
+![With a mind for logic and a heart for creativity, I’m ready to bring your projects to life.](/Group4.png)
 <h5 align="center">
 I develop user interfaces using modern technologies. I love what I do and am constantly developing in my business.
 </h5>
