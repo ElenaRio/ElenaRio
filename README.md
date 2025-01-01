@@ -27,7 +27,7 @@ https://elenario.github.io/developer/
 🚴🏾‍♀️ Sport
 
 #### Interesting fact about me: 
-👩‍⚕️I used to work as a pediatrician.
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElenaRio)  
 
